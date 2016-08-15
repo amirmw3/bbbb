@@ -3,7 +3,7 @@ return {
 	version = '3.1', -- /aupdate for v3.1
 	testing_mode = false,
 	admin = {
-		owner = 23646077,
+		owner = 166942085,
 		admins = {
 			[166942085] = true,
 			[23646077] = false
